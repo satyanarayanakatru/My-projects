@@ -1,2 +1,2 @@
 # My-projects
-All projects related to my skills built on html and css
+All projects  are related to my skills built on HTML and CSS with Responsive
